@@ -1,2 +1,2 @@
 # Microcredential
- Cognizant Micro Credential
+
